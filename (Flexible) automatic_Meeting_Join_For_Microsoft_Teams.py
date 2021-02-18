@@ -17,3 +17,5 @@ if (TimeNow == Time_Of_Join):
     time.sleep(12)
     pyautogui.moveTo(1450, 750) 
     pyautogui.click()
+
+#made by Ritankar
