@@ -21,6 +21,8 @@ if (TimeNow == Time_Of_Join):
     pyautogui.moveTo(1550,97)
     pyautogui.click()
     
+#Made By Ritankar
+
 
 
 
