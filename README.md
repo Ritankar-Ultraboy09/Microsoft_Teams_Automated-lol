@@ -5,7 +5,7 @@
  -Created and Owned :- https://github.com/Ritankar-Ultraboy09 - Ritankar-Ultraboy09
  
 # Prerequisite 
-  * Pyhton version 3.5 or above.
+  * Python version 3.5 or above.
 
 # There are 3 Programms in this Repository:-
   * https://github.com/Ritankar-Ultraboy09/Microsoft_Teams_Automated-lol/blob/master/(Flexible)%20automatic_Meeting_Join_For_Microsoft_Teams.py - Meeting Joiner(Flexible)
